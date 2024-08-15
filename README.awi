@@ -1,5 +1,0 @@
-# Build for SPARQL and Turtle Support
-
-```bash
-node tools/build.js -t browser -n python bash sql turtle sparql xml
-```
